@@ -1,4 +1,4 @@
 # new-project
 mini project
 <br>
-Authur - Vinay
+Author - Vinay
